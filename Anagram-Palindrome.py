@@ -43,7 +43,7 @@ def main():
 	if Pal(s3):
 		print("This string is a palindrome!")
 	else:
-		print("This string is not a plaindrome!") 
+		print("This string is not a palindrome!") 
 
 
 if __name__ == '__main__':
